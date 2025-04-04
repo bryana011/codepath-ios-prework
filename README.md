@@ -1,4 +1,4 @@
-# Prework - *Bryanproj*
+ Prework - Bryanproj
 
 Submitted by: Bryan Abreu
 
@@ -7,14 +7,14 @@ tapped, the background color of the screen changes to a random color.
 
 Time spent: 1 hours spent in total
 
-## Required Features
+Required Features
 
-The following **required** functionality is completed:
+The following required functionality is completed:
 
 - [ x] Users are see a screen with three labels and a button
 - [ x] Tapping the button changes the screen color to a random color
 
-## App Brainstorming (Step 4)
+App Brainstorming (Step 4)
 1- Spotify 
     - Personalized playlist based on listing history
     - Offline playback
@@ -27,13 +27,13 @@ The following **required** functionality is completed:
 
 I would like to build a jukebox app that generates a custom playlist based on how a user is feeling when they wake up. Each morning the user would log their mood(e.g, energized,relaxed, ererie, sad). The app would generate a playlist based on the selected mood mixing songs, sounds, beeats that match the vibe the user is going for. User can keep a journal od their past moods with a playlist attached to the entry. Also, allows for users to send their mood playlists to freinds or discover other mood playlis.
 
-## Notes
+ Notes
 
 One challange I encountered while building the app was understanding the interface, I was able to complete with ease once i explored the interface more.
 
-## License
+License
 
-    Copyright [2025] [Bryan Abreu]
+    Copyright 2025 Bryan Abreu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
